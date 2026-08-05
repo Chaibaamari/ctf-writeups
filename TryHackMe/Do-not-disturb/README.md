@@ -1,4 +1,4 @@
-# TryHackMe: Do Not Disturb — Writeup
+# TryHackMe: Do Not Disturb — Writeup [Full-detaille-writup](https://0xc-h-a-i-b-a-blog-p6et.vercel.app/docs/)
 
 **Category:** Boot2Root
 **Techniques:** NoSQL Injection, Node.js RCE, Node `--inspect` Debugger Abuse, `disk` Group Privilege Escalation
