@@ -1,6 +1,6 @@
 # CTF & security writeups
 
-Writeups from CTF competitions (r3kapig), TryHackMe boxes, and web security labs. Full posts with extra context and design also live on my blog: [0xc_h_a_i_b_a](https://your-blog-url.vercel.app).
+Writeups from CTF competitions (r3kapig), TryHackMe boxes, and web security labs. Full posts with extra context and design also live on my blog: [0xc_h_a_i_b_a](https://0xc-h-a-i-b-a-blog-p6et.vercel.app/).
 
 ## TryHackMe
 
